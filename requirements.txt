@@ -1,3 +1,4 @@
 requests==2.18.4
 poster==0.8.1
 requests-toolbelt
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
